@@ -1,7 +1,7 @@
 <img width="1202" height="756" alt="image" src="https://github.com/user-attachments/assets/c41e8d55-4334-4fb9-a5ee-646a6021492e" />
 
 
-게임 주소 : https://llacoondog.github.io/WinterSquirrel/
+게임 주소 : https://llacoondog.github.io/WinterSquirrel_Web/
 
 
 <img width="1212" height="760" alt="image" src="https://github.com/user-attachments/assets/1f009b43-278b-406c-a764-a95f3784d03b" />
